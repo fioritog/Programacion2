@@ -12,7 +12,7 @@ namespace Cine.Modelos
         public char Letra  {get { return _letra; }}
         public int Numero {get { return _numero; }}
         public TipoAsiento Tipo {get { return _tipo; }}
-        public bool Ocupado { get { return _ocupado; }}
+        public bool IsOcupado { get { return _ocupado; }}
         
 
         public Asientos(char letra, int numero, TipoAsiento tipo) 
@@ -20,6 +20,7 @@ namespace Cine.Modelos
             _letra = letra;
             _numero = numero;
             _tipo = tipo;
+            _ocupado = false;
         }
 
         public void CambiarEstado() 
@@ -28,4 +29,3 @@ namespace Cine.Modelos
         }
     }
 }
-
