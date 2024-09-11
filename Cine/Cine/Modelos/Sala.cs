@@ -1,48 +1,56 @@
+
+using Cine.Enums;
+
 namespace Cine.Modelos
 {
-    public class Sala
+    public class Entrada
     {
-        public int Numero { get; private set; }
-        public List<Asientos> Asiento { get; private set; } = new List<Asientos>();
-        public Pelicula? Pelicula { get; private set; } 
-        public DateTime Horario { get; private set; }
-        public Sala(int numero) 
-        {
-            Numero = numero;
-        }
-        public Sala(int numero, List<Asientos> asiento) 
-        {
-            Numero = numero;
-            Asiento = asiento;
-
-        }
-        public void AgregarAsiento(Asientos asiento) 
-        {
-            Asiento.Add(asiento);
-        }
-        public void AgregarAsiento(List<Asientos> asientos) 
-        {
-            Asiento.AddRange(asientos);
-        }
-        public void DefinirHorario(DateTime hora) 
-        {
-            Horario = hora;
-        }
-        public void ReproducirPelicula(Pelicula pelicula) 
-        {
-            Pelicula = pelicula;
-            Console.WriteLine($"Comenzó la funcion de la sala {Numero} de la película {Pelicula.Nombre}");
-            Console.WriteLine($"-----------------------------------------------------------------------");
-            Console.WriteLine($"Terminó la funcion de la sala {Numero} de la película {Pelicula.Nombre}");
-            Console.WriteLine($"-----------------------------------------------------------------------");
-            /*DESOCUPAR LOS ASIENTOS DE LA SALA CUANDO TERMINA LA PELICULA*/
-            foreach (var asiento in Asiento) 
+        public Cine Cine { get; private set; }
+        public Pelicula Pelicula { get; private set; }
+        public Sala Sala { get; private set; }
+        public Asientos Asiento { get; private set; }
+        public double PrecioBase { get; private set; }
+        public DateTime Fecha { get; private set; }
+        public double Precio { 
+            get 
             {
-                if (asiento.IsOcupado == true) 
+                /*En caso de ser un asiento superseat, va a salir un 15% más cara la entrada*/
+                double precioFinal = 0;
+                if (TipoAsiento.Superseat == Asiento.Tipo)
                 {
-                    asiento.CambiarEstado();
+                    precioFinal = PrecioBase * 1.15;
                 }
+                else 
+                {
+                    precioFinal = PrecioBase;
+                }
+                return precioFinal;
             }
+        }
+        public Entrada(Cine cine, Pelicula pelicula,Sala sala, Asientos asiento, double precioBase, DateTime fecha) 
+        {
+            Cine = cine;
+            Pelicula = pelicula;
+            Asiento = asiento;
+            PrecioBase = precioBase;
+            Fecha = fecha;
+        }
+        public void MostrarDetalles() 
+        {
+            Console.WriteLine($"-------------------------------------------------------");
+            Console.WriteLine($"{Cine.Nombre}");
+            Console.WriteLine($"{Fecha}");
+            Console.WriteLine($"------------------------------------------------------");
+            Console.WriteLine($"Película   {Pelicula.Nombre}");
+            Console.WriteLine($"Género:     {Pelicula.Genero}");
+            Console.WriteLine($"Duración (en minutos):    {Pelicula.DuracionMin}");
+            Console.WriteLine($"Formato:     {Pelicula.Formato}");
+            Console.WriteLine($"------------------------------------------------------");
+            Console.WriteLine($"Asiento a ocupar:   {Asiento.Letra} {Asiento.Numero}");
+            Console.WriteLine($"Tipo de asiento:    {Asiento.Tipo}");
+            Console.WriteLine($"------------------------------------------------------");
+            Console.WriteLine($"TOTAL ENTRADA:     {Precio}");
+            Console.WriteLine($"------------------------------------------------------");
         }
 
     }
