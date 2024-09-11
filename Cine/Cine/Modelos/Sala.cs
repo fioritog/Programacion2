@@ -31,6 +31,7 @@ namespace Cine.Modelos
         {
             Cine = cine;
             Pelicula = pelicula;
+            Sala = sala;
             Asiento = asiento;
             PrecioBase = precioBase;
             Fecha = fecha;
