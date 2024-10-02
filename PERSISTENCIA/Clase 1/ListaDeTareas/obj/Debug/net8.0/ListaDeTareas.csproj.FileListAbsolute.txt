@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.exe
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.deps.json
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.runtimeconfig.json
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.dll
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\bin\Debug\net8.0\ListaDeTareas.pdb
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.dll
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\refint\ListaDeTareas.dll
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.pdb
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ListaDeTareas.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\PERSISTENCIA\Clase 1\ListaDeTareas\obj\Debug\net8.0\ref\ListaDeTareas.dll
