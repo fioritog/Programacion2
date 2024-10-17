@@ -1,0 +1,2 @@
+Investigacion, test, Luna, 2, test
+Exploracion, hola marte, Marte, 100
