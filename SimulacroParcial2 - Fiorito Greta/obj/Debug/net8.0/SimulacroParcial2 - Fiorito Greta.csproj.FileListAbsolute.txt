@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\bin\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.exe
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\bin\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.deps.json
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\bin\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.runtimeconfig.json
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\bin\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.dll
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\bin\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.pdb
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.dll
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\refint\SimulacroParcial2 - Fiorito Greta.dll
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.pdb
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\SimulacroParcial2 - Fiorito Greta.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - frsn.utn.edu.ar\Escritorio\CARPETA C#\SimulacroParcial2 - Fiorito Greta\obj\Debug\net8.0\ref\SimulacroParcial2 - Fiorito Greta.dll
