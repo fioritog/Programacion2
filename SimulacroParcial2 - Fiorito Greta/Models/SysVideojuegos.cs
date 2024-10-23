@@ -63,7 +63,7 @@ namespace SimulacroParcial2___Fiorito_Greta.Models
         }
         static public void GuardarVideojuego(Videojuego videojuego) 
         {
-            using StreamWriter writer = new(ArchivoCatalogo);
+            using StreamWriter writer = new(ArchivoCatalogo, true);
             writer.WriteLine(videojuego);
         }
         static public void GuardarDatos() 
